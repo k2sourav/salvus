@@ -14,7 +14,7 @@ class Header extends Component {
                         </button>
                         <a className="navbar-brand page-scroll" href="#page-top">SALVUS Realty</a>
                         <div className="phone">
-                            <span>Call Today</span>+91-90077-79311</div>
+                            <span>Call Today</span>+91 9007779311</div>
                     </div>
 
                     <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
