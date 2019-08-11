@@ -2,7 +2,7 @@
   "name": "salvus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://k2sourav.github.io/salvus/",
+  "homepage": "http://k2sourav.github.io/salvus/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
